@@ -1,0 +1,8 @@
+moviepy
+python-dotenv
+boto3
+supabase 
+loguru
+requests
+pytest
+ipykernel

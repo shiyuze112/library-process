@@ -1,0 +1,11 @@
+get_txt.py
+math.py
+key_s3.py
+record.py
+mode test.py
+cpkey_uuid.py
+MODE/*.json
+MODE/voices
+MODE/logs
+zh_en
+.env

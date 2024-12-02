@@ -1,0 +1,8 @@
+test_videos/
+test.ipynb
+*.pyc
+.DS_Store
+movies/
+logs/
+test/
+.env
